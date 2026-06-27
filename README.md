@@ -153,6 +153,24 @@ streamlit run frontend/app.py
 
 ---
 
+## 🧪 Testing
+
+The `tests/` directory contains development and module-level test scripts used during the implementation of DocuMind AI.
+
+These scripts were used to verify individual components such as:
+
+- Configuration loading
+- PDF document processing
+- Text chunking
+- Embedding generation
+- FAISS vector store creation
+- Retrieval pipeline
+- Groq LLM integration
+
+These tests helped validate each module independently before integrating the complete RAG pipeline.
+
+---
+
 ## Future Improvements
 
 * Multi-document collections
