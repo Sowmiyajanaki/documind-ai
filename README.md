@@ -30,6 +30,39 @@ Instead of relying solely on the Large Language Model's knowledge, the system re
 </p>
 
 ---
+## 📸 Application Screenshots
+
+### 🏠 Home Page
+
+<p align="center">
+<img src="docs/images/home.png" width="900">
+</p>
+
+---
+
+### 📤 Upload Document
+
+<p align="center">
+<img src="docs/images/upload.png" width="900">
+</p>
+
+---
+
+### 💬 Chat Interface
+
+<p align="center">
+<img src="docs/images/chat.png" width="900">
+</p>
+
+---
+
+### 📖 Generated Response
+
+<p align="center">
+<img src="docs/images/response.png" width="900">
+</p>
+
+---
 
 ## Key Features
 
